@@ -228,4 +228,3 @@ The three PNG screenshots were retrieved from this repository's original README 
 ---
 
 **[Back to my cybersecurity portfolio](https://github.com/jmccuf)**
-<br />
